@@ -1,0 +1,12 @@
+html{
+    font: 15px/1.5 italic;
+}
+
+body {
+    background-color:bisque;
+    color:blueviolet
+}
+
+h1 {
+    color: darkmagenta;
+}
